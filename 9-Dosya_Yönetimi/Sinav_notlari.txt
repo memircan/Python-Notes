@@ -1,0 +1,6 @@
+emircan tamer:90,88,73
+mehmet yılmaz:90,70,80
+deniz efe:60,55,40
+reisi cumhur:100,100,100
+ahmet can:41,67,99
+enes tten:44,77,99
