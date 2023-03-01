@@ -11,13 +11,13 @@ file = open("C:/Users/Emircan/Desktop/phton_deneme/dosyaYönetimi/newfile.txt","
 file.close()
 
 # file = open("newfile.txt","w",encoding='utf-8')
-# file.write("Sadık Turan")
+# file.write("memircan")
 # file.close()
 
 # "a": (Append) ekleme. Dosya konumda yoksa oluşturur.
 # file = open("newfile.txt","a",encoding='utf-8')
-# file.write("\nÇınar Turan")
-# file.write("Çınar Turan\n")
+# file.write("\nEmircan Tamer")
+# file.write("Emircan Tamer\n")
 # file.close()
 
 # "x": (Create) oluşturma. Dosya zaten varsa hata verir.
